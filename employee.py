@@ -1,4 +1,3 @@
-
 employee_ids = [1, 2, 3, 4, 5]
 employee_names = ["Bogart Torres", "Bogart Reyes", "Bogart Dela Cruz", "Lisa Wong", "Paul McDonald"]
 employee_departments = ["Sales", "Human Resources", "IT", "Marketing", "Finance"]
