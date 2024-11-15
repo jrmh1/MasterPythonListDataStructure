@@ -1,6 +1,3 @@
-
-
-
 book_ids = [1, 2, 3, 4, 5]
 book_titles = ["The Great Gatsby", "To Kill a Mockingbird", "1984", "The Catcher in the Rye", "A Brief History of Time"]
 book_authors = ["F. Scott Fitzgerald", "Harper Lee", "George Orwell", "J.D. Salinger", "Stephen Hawking"]
